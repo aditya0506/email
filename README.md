@@ -1,2 +1,2 @@
-# email
-Email Checker
+# Email
+EMAIL ACCOUNT CHECKER
